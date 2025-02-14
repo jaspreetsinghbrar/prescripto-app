@@ -1,6 +1,7 @@
 # Prescripto
 
 # ![Homepage](C:/users/jaspreet/documents/prescripto_home)
+Prescripto is a fully functional doctor appointment booking platform with functionality of user registration, browsing doctor profiles, booking an appointment with date and time, payment for the appointment using stripe and razorpay. An admin panel is made to manage the doctor appointments, adding new doctors to the platform and a dashboard with full overview of appointments.
 
 ## Getting Started
 
